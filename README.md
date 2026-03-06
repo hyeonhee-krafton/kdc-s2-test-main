@@ -10,3 +10,10 @@
 
 현장에서는 결과 캐릭터가 포함된 커스텀 카드를 배부드립니다. 
 
+## 📸 Sample Cards
+![Sample Card 1](./images/sample_card.png)
+
+![Sample Card 2](./images/sample_card(2).png)
+
+## 🔗 테스트 링크
+[KDC S2 테스트 페이지](https://hyeonheebee.github.io/kdc-s2-test/)
